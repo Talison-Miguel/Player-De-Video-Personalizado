@@ -35,7 +35,7 @@
 
 ## :rocket: Sobre o Repositório
 
-Um player de vídeo customizado e funcional ultilizando javaScript puro.
+Um player de vídeo customizado e funcional utilizando javaScript puro.
 
 ---
 
